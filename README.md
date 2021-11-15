@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benaplin
-- 👀 I’m interested in all things Javascript and learning Closure
+- 👀 I’m interested in all things web development
 - 🌱 I’m currently learning Closure
 - 💞️ I’m looking to collaborate on all things Reify
 
